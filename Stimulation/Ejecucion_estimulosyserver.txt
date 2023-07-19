@@ -1,0 +1,45 @@
+Una vez conectado el openBCI al computadorPara realizar la estimulación se debe abrir el anaconda Promt para correr los estimulos y el server
+
+Primero se debe unicamente abrir el estimulo para posteriormente abrir el Server y que este pueda captar las marcas y correr adecuadamente
+Abrir estimulo:
+
+Ajedrez 5Hz
+
+Paso 1:
+cd C:\Users\santi\OneDrive\Escritorio\Estimulos y adquisición_Laboratorio\Estimulación checkboard 5hz_6hz
+
+Paso 2:
+python ajedrez_5Hz.py
+
+Ajedrez 6Hz
+
+Paso 1:
+cd C:\Users\santi\OneDrive\Escritorio\Estimulos y adquisición_Laboratorio\Estimulación checkboard 5hz_6hz
+
+Paso 2:
+python ajedrez_6Hz.py
+
+Vernier 5Hz
+
+Paso 1:
+cd C:\Users\santi\OneDrive\Escritorio\Estimulos y adquisición_Laboratorio\Estimulación Vernier
+
+Paso 2:
+python vernier_5Hz.py
+
+Vernier 6Hz
+
+Paso 1:
+cd C:\Users\santi\OneDrive\Escritorio\Estimulos y adquisición_Laboratorio\Estimulación Vernier
+
+Paso 2:
+python vernier_6Hz.py
+
+Ahora se abre un nuevo anaconda promt para abrir el Server:
+
+Paso 1:
+cd C:\Users\santi\OneDrive\Escritorio\Estimulos y adquisición_Laboratorio
+
+Paso 2:
+python Server.py
+
