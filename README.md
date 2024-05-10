@@ -11,7 +11,7 @@
 *URL to article* 	Communications in Computer and Information Science<br>
 
 ## 2.	Refereed article
-*GithHub:* https://github.com/vhenaoi/OpenBCI_acquisition_python_ViAT<br>
+*GitHub:* https://github.com/vhenaoi/OpenBCI_acquisition_python_ViAT<br>
 *Title of article* 	Development of a Tool for the Acquisition of SSVEP using Portable and Low-Cost Electroencephalography<br>
 *Author(s)* 	Isaza, V. H., Villa, E. S., Castro, V. C., & Gomez, J. F. O.<br>
 *Title of publication* 	2023 IEEE 3rd Colombian BioCAS Workshop<br>
