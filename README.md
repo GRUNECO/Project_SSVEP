@@ -2,7 +2,7 @@
 
 ## 1.	Refereed article
 *Title of article* 	Unveiling Visual Physiology and Steady-State Evoked Potentials using Low-Cost and Transferable Electroencephalography for Evaluating Neuronal Activation
-*Author(s)* 	Henao Isaza, V., Cadavid, V., Salas, E., González, S., Ortega, D., Suarez, J. C., & Ochoa, J
+/n*Author(s)* 	Henao Isaza, V., Cadavid, V., Salas, E., González, S., Ortega, D., Suarez, J. C., & Ochoa, J
 *Title of publication* 	IV Latin American Workshop on Computational Neuroscience
 *ISSN*	NA
 *Volume/Issue and page number* 	NA
