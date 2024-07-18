@@ -1,3 +1,15 @@
+# Folder Composition (Databases)
+
+## Healthy: Group comprising healthy control subjects without visual pathway damage caused by stroke. Some subjects may wear prescription glasses, but none exhibit visual pathway impairments.
+
+## Match: Paired group aimed at identifying significant characteristics in visual potentials associated with visual pathway damage. It includes two subfolders:
+
+### Healthy: Subset selected from the main Healthy group, matched by age with subjects in the Patients folder to ensure comparable comparisons and mitigate unrelated biases.
+
+### Patients: Individuals who have experienced visual pathway damage resulting from stroke.
+
+
+
 # ProyectoSSVEP
 
 ## 1.	Refereed article
